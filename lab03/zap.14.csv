@@ -1,0 +1,6 @@
+"id","klient_id","pracownik_id","data_zamowienia","status"
+766,58,16,"2025-10-19","nowe"
+487,47,13,"2025-10-19","w realizacji"
+403,20,8,"2025-10-20","w realizacji"
+48,12,7,"2025-10-20","anulowane"
+624,38,2,"2025-10-20","anulowane"
